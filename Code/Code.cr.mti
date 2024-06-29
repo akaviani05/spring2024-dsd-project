@@ -1,0 +1,8 @@
+/home/alireza/Uni/2024-Spring/DSD/spring2024-dsd-project/parking_management.v {1 {vlog -work work -stats=none /home/alireza/Uni/2024-Spring/DSD/spring2024-dsd-project/parking_management.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module parking_management
+
+Top level modules:
+	parking_management
+
+} {} {}}
